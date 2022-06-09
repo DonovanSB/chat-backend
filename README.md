@@ -25,7 +25,7 @@
 ## Description
 Las herramientas o frameworks usados para este proyecto son
 
-* Como motor de base de datos se usa MongoDB y su el manejo se realiza mediante Mongoose
+* Como motor de base de datos se usa MongoDB y el manejo se realiza mediante Mongoose
 * Para comunicar el frontend con el backend se usa Api Rest mediante Express, y WebSockets para la comunicación en tiempo real, usando la librería socket-io
 * El frontend fue realizado en React + Typescript, y se pueden encontrar en el siguiente enlace [Frontend](https://github.com/DonovanSB/chat-frontend.git)
 
